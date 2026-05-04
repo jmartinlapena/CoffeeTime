@@ -1,0 +1,29 @@
+# Build outputs
+bin/
+obj/
+out/
+publish/
+
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.log
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Misc
+*.pdb
+*.cache
+*.tmp
+*.temp
